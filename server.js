@@ -42,7 +42,7 @@ app.get('/pizza', (req, res) => {
             {
                 id: 3,
                 name: 'Кисло-сладкий цыпленок',
-                imageUrl: 'https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/6652fec1-04df-49d8-8744-232f1032c44b.jpg',
+                imageUrl: 'https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/af553bf5-3887-4501-b88e-8f0f55229429.jpg',
                 types: [0],
                 sizes: [26, 40],
                 price: 295,
